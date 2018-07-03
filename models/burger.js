@@ -16,5 +16,4 @@ var burger = {
 		orm.create("burgers", name, cb)
 	}
 }
-// Export the database functions for the controller (catsController.js).
 module.exports = burger
