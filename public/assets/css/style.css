@@ -1,0 +1,52 @@
+body {
+    background-color: orange;
+    font-family: 'Comic Sans MS';
+
+}
+h1 {
+    font-size: 50px;
+    font-weight: 700;
+}
+h3 {
+    text-align: center;
+    height: 50px;
+}
+#top-section {
+    text-align: center;
+}
+#text-box {
+    width: 500px;
+    margin: auto;
+}
+
+#burger-image {
+    padding: 10px;
+}
+#devoured {
+    width: 250px;
+    color:black;
+    font-weight: bold;
+    font-size: 16px;
+    text-align: right;
+}
+#devour-it {
+    margin-bottom: 5px;
+
+}
+
+#burger {
+    color: green;
+    width: 250px;
+    font-weight: bold;
+    font-size: 16px;
+    text-align: left;
+}
+
+#enter-section {
+    text-align: center;
+    align-content: center;
+}
+p{
+    font-style: italic;
+    font-size: 16px;
+}
